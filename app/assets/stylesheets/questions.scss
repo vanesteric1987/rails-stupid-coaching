@@ -1,0 +1,21 @@
+// Place all the styles related to the questions controller here.
+
+// Defining a variable
+$gray: #F4F4F4;
+
+body {
+  background: $gray; // Using this variable
+  background-color: lightgrey;
+}
+
+.btn {
+  background: lightseagreen;
+  border-radius: 10px;
+  color: #F4F4F4;
+}
+
+
+
+
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
